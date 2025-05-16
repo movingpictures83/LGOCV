@@ -1,0 +1,2 @@
+Prefix plugins/LGOCV/example/
+Plugin LGOCV inputfile none outputfile output.rds
